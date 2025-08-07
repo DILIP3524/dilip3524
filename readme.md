@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm a passionate Python Backend Developer with 3+ years of experience building scalable, secure, and maintainable web applications. I specialize in designing RESTful APIs, working with Django, Flask.<br>i'm 
+i'm a passionate Python Backend Developer with 3+ years of experience building scalable, secure, and maintainable web applications. I specialize in designing RESTful APIs, working with Django, Flask.
 
 
 ## 🌐 Socials:
